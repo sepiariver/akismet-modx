@@ -1,0 +1,4 @@
+akismetmodx
+===========
+
+Akismet for MODX
